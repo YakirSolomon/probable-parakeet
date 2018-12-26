@@ -18,8 +18,9 @@ function searchDir(startPath,filter,str){
         else if (filename.indexOf(filter)>=0) {
                 var content = fs.readFileSync(filename, 'utf8');
                 if(content.indexOf(str) >= 0){
-                 console.log(filename);
-                 flag = true;
+                    var newFilename = filename.replace("../", "C:/");
+                    console.log(newFilename);
+                    flag = true;
                 }
             };
     };
