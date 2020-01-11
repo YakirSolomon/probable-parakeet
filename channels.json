@@ -1,0 +1,65 @@
+{
+    "SLOVAKIA": [
+      {
+        "hlsURL": "http://nn2.joj.sk/hls/joj-720.m3u8",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_joj_2007.jpg",
+        "name": "JOJ HD"
+      },
+        {
+        "hlsURL": "http://nn2.joj.sk/hls/jojplus-540.m3u8",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/TV_JOJ_Plus_logo.jpg/300px-TV_JOJ_Plus_logo.jpg",
+        "name": "JOJ PLUS"
+      },
+        {
+        "hlsURL": "http://nn2.joj.sk/hls/wau-540.m3u8",
+        "imageURL": "https://img.joj.sk/rx/logowau.png",
+        "name": "WAU"
+      },
+        {
+        "hlsURL": "http://nn2.joj.sk/hls/family-540.m3u8",
+        "imageURL": "https://img.joj.sk/rx/fc0de54bac605da4f4079a5d55821c9e.png",
+        "name": "JOJ FAMILY"
+      },
+        {
+        "hlsURL": "http://nn2.joj.sk/hls/rik-540.m3u8",
+        "imageURL": "http://oklivetv.com/wp-content/uploads/media/783be47e2fa07d0e9c8e0c1a21a043f9.jpeg",
+        "name": "RIK"
+      }
+      ,
+        {
+        "hlsURL": "https://e13.stv.livebox.sk/ta3/1.smil/chunklist_w2117999717_b2691072.m3u8?auth=_any_%7C1576141068%7C9101cd1654e2c7e2810919bfe92c1656db457c12",
+        "imageURL": "http://www.hitapk.com/android/news/wp-content/uploads/2016/07/TA3.png",
+        "name": "TA3"
+      }
+      ,
+        {
+        "hlsURL": "http://nn2.joj.sk/hls/rik-540.m3u8",
+        "imageURL": "http://oklivetv.com/wp-content/uploads/media/783be47e2fa07d0e9c8e0c1a21a043f9.jpeg",
+        "name": "RIK"
+      },
+       {
+        "hlsURL": "http://live.tvlux.sk:1935/lux/lux.stream_360p/playlist.m3u8",
+        "imageURL": "https://t4.aimg.sk/magaziny/4UL-YWzVTNWtxi-qY8PIdg~TV-Lux.jpg?t=Lzg4MHg0OTIvc21hcnQ&h=nk9FKUZ1VprkMX11epSXpg&e=2145916800&v=2",
+        "name": "LUX"
+      }
+      ,
+       {
+        "hlsURL": "http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8",
+        "imageURL": "http://tv.popcornuj.eu/img/obal/markiza.jpg",
+        "name": "markiza"
+      }
+      ,
+       {
+        "hlsURL": "http://n3.stv.livebox.sk/stv-tv/5fb61b1480c24df6b364f5d1e4bea174/stv2.smil/chunklist_b2691072.m3u8",
+        "imageURL": "http://cdn.srv.rtvs.sk/images/logo-rtvs.png",
+        "name": "RTV 2"
+      }
+      ,
+       {
+        "hlsURL": "http://lb.streaming.sk/tvruzinov/stream/chunklist_w377065084.m3u8",
+        "imageURL": "http://www.tvr.sk/sites/all/themes/tvr/logo.png",
+        "name": "TVR"
+      }
+  
+    ]
+  }
